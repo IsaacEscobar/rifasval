@@ -5,7 +5,7 @@
  <body>
  <p>Hola mundoxdxdxx</p>
  </body>
- <form action="/action_page.php">
+ <form action="">
   <label for="fname">First name:</label>
   <input type="text" id="fname" name="fname"><br><br>
   <label for="lname">Last name:</label>
